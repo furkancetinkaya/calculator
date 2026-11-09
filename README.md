@@ -2,7 +2,7 @@
 
 ![](./screenshots/light_theme.png)
 
-A simple, no-frills Android calculator app. FOSS (Free and Open Source), no ads, no tracking — built with the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle) in mind.
+A simple, Android calculator app. FOSS (Free and Open Source), no ads, no tracking.
 
 ## Features
 
