@@ -18,4 +18,6 @@ A simple, Android calculator app. FOSS (Free and Open Source), no ads, no tracki
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [GNU General Public License v3.0](./LICENSE).
+
+Copyright (C) 2026 Furkan Çetinkaya
